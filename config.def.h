@@ -6,7 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "Source Code Pro:size=15";/*JetBrains Mono:size=16*/
-static char *font2[] = { " Twitter Color Emoji:pixelsize=15:antialias=true:autohint=true"
+static char *font2[] = {"JoyPixels:pixelsize=15:antialias=true:autohint=true"
 };
 static int borderpx = 8;
 
